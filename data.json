@@ -1,0 +1,598 @@
+{
+  "subjects": [
+    {
+      "id": "s001",
+      "area": "Ética Profissional",
+      "name": "Direitos e prerrogativas",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s002",
+      "area": "Ética Profissional",
+      "name": "Honorários",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s003",
+      "area": "Ética Profissional",
+      "name": "Inscrição",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s004",
+      "area": "Ética Profissional",
+      "name": "Incompatibilidades e impedimentos",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s005",
+      "area": "Ética Profissional",
+      "name": "Sociedade de advogados",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s006",
+      "area": "Ética Profissional",
+      "name": "Infrações e sanções disciplinares",
+      "law": "Estatuto da Advocacia (Lei 8.906/94), Código de Ética, Regulamento Geral"
+    },
+    {
+      "id": "s007",
+      "area": "Direito Constitucional",
+      "name": "Direitos e garantias fundamentais",
+      "law": "CF/88"
+    },
+    {
+      "id": "s008",
+      "area": "Direito Constitucional",
+      "name": "Controle de constitucionalidade",
+      "law": "CF/88"
+    },
+    {
+      "id": "s009",
+      "area": "Direito Constitucional",
+      "name": "Organização do Estado",
+      "law": "CF/88"
+    },
+    {
+      "id": "s010",
+      "area": "Direito Constitucional",
+      "name": "Organização dos Poderes",
+      "law": "CF/88"
+    },
+    {
+      "id": "s011",
+      "area": "Direito Constitucional",
+      "name": "Direitos sociais",
+      "law": "CF/88"
+    },
+    {
+      "id": "s012",
+      "area": "Direito Constitucional",
+      "name": "Nacionalidade e direitos políticos",
+      "law": "CF/88"
+    },
+    {
+      "id": "s013",
+      "area": "Direito Civil",
+      "name": "Obrigações",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s014",
+      "area": "Direito Civil",
+      "name": "Contratos",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s015",
+      "area": "Direito Civil",
+      "name": "Responsabilidade civil",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s016",
+      "area": "Direito Civil",
+      "name": "Família",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s017",
+      "area": "Direito Civil",
+      "name": "Sucessões",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s018",
+      "area": "Direito Civil",
+      "name": "Direitos reais",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s019",
+      "area": "Direito Civil",
+      "name": "Parte geral",
+      "law": "Código Civil (Lei 10.406/2002), LINDB"
+    },
+    {
+      "id": "s020",
+      "area": "Processo Civil",
+      "name": "Competência",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s021",
+      "area": "Processo Civil",
+      "name": "Procedimento comum",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s022",
+      "area": "Processo Civil",
+      "name": "Recursos",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s023",
+      "area": "Processo Civil",
+      "name": "Tutela provisória",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s024",
+      "area": "Processo Civil",
+      "name": "Cumprimento de sentença e execução",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s025",
+      "area": "Processo Civil",
+      "name": "Partes e procuradores",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s026",
+      "area": "Processo Civil",
+      "name": "Prazos e atos processuais",
+      "law": "CPC (Lei 13.105/2015)"
+    },
+    {
+      "id": "s027",
+      "area": "Direito Penal",
+      "name": "Teoria do crime",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s028",
+      "area": "Direito Penal",
+      "name": "Crimes em espécie",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s029",
+      "area": "Direito Penal",
+      "name": "Penas",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s030",
+      "area": "Direito Penal",
+      "name": "Concurso de pessoas",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s031",
+      "area": "Direito Penal",
+      "name": "Extinção da punibilidade",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s032",
+      "area": "Direito Penal",
+      "name": "Aplicação da lei penal",
+      "law": "Código Penal (Decreto-Lei 2.848/1940)"
+    },
+    {
+      "id": "s033",
+      "area": "Processo Penal",
+      "name": "Prisões e medidas cautelares",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s034",
+      "area": "Processo Penal",
+      "name": "Ação penal",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s035",
+      "area": "Processo Penal",
+      "name": "Provas",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s036",
+      "area": "Processo Penal",
+      "name": "Recursos",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s037",
+      "area": "Processo Penal",
+      "name": "Procedimentos (júri)",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s038",
+      "area": "Processo Penal",
+      "name": "Competência",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s039",
+      "area": "Processo Penal",
+      "name": "Inquérito",
+      "law": "CPP (Decreto-Lei 3.689/1941)"
+    },
+    {
+      "id": "s040",
+      "area": "Direito do Trabalho",
+      "name": "Contrato de trabalho",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s041",
+      "area": "Direito do Trabalho",
+      "name": "Jornada",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s042",
+      "area": "Direito do Trabalho",
+      "name": "Remuneração",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s043",
+      "area": "Direito do Trabalho",
+      "name": "Rescisão",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s044",
+      "area": "Direito do Trabalho",
+      "name": "Férias",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s045",
+      "area": "Direito do Trabalho",
+      "name": "Estabilidades",
+      "law": "CLT (Decreto-Lei 5.452/1943), Lei 13.467/2017"
+    },
+    {
+      "id": "s046",
+      "area": "Processo do Trabalho",
+      "name": "Competência da Justiça do Trabalho",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s047",
+      "area": "Processo do Trabalho",
+      "name": "Recursos",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s048",
+      "area": "Processo do Trabalho",
+      "name": "Procedimentos",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s049",
+      "area": "Processo do Trabalho",
+      "name": "Audiência e revelia",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s050",
+      "area": "Processo do Trabalho",
+      "name": "Provas",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s051",
+      "area": "Processo do Trabalho",
+      "name": "Execução",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s052",
+      "area": "Processo do Trabalho",
+      "name": "Custas e honorários",
+      "law": "CLT (partes processuais)"
+    },
+    {
+      "id": "s053",
+      "area": "Direito Administrativo",
+      "name": "Licitações e contratos",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s054",
+      "area": "Direito Administrativo",
+      "name": "Atos e poderes administrativos",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s055",
+      "area": "Direito Administrativo",
+      "name": "Responsabilidade civil do Estado",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s056",
+      "area": "Direito Administrativo",
+      "name": "Agentes públicos",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s057",
+      "area": "Direito Administrativo",
+      "name": "Improbidade",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s058",
+      "area": "Direito Administrativo",
+      "name": "Controle da Administração",
+      "law": "CF (arts. 37 a 41), Leis 14.133/2021, 8.429/1992, 8.112/1990"
+    },
+    {
+      "id": "s059",
+      "area": "Direito Tributário",
+      "name": "Competência tributária",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s060",
+      "area": "Direito Tributário",
+      "name": "Limitações ao poder de tributar",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s061",
+      "area": "Direito Tributário",
+      "name": "Obrigação e crédito tributário",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s062",
+      "area": "Direito Tributário",
+      "name": "Lançamento",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s063",
+      "area": "Direito Tributário",
+      "name": "Impostos em espécie",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s064",
+      "area": "Direito Tributário",
+      "name": "Responsabilidade tributária",
+      "law": "CTN (Lei 5.172/1966), CF (arts. 145 a 162)"
+    },
+    {
+      "id": "s065",
+      "area": "Direito Empresarial",
+      "name": "Direito societário",
+      "law": "CC (Livro II), Leis 6.404/1976, 11.101/2005, 7.357/1985"
+    },
+    {
+      "id": "s066",
+      "area": "Direito Empresarial",
+      "name": "Títulos de crédito",
+      "law": "CC (Livro II), Leis 6.404/1976, 11.101/2005, 7.357/1985"
+    },
+    {
+      "id": "s067",
+      "area": "Direito Empresarial",
+      "name": "Recuperação e falência",
+      "law": "CC (Livro II), Leis 6.404/1976, 11.101/2005, 7.357/1985"
+    },
+    {
+      "id": "s068",
+      "area": "Direito Empresarial",
+      "name": "Empresário e estabelecimento",
+      "law": "CC (Livro II), Leis 6.404/1976, 11.101/2005, 7.357/1985"
+    },
+    {
+      "id": "s069",
+      "area": "Direito Empresarial",
+      "name": "Contratos mercantis",
+      "law": "CC (Livro II), Leis 6.404/1976, 11.101/2005, 7.357/1985"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "p01",
+      "phase": "Fase 1",
+      "start": "2026-10-29",
+      "end": "2026-11-04",
+      "activity": "Ética Profissional",
+      "days": 5,
+      "hours": 15,
+      "law": "Lei 8.906/94, Código de Ética",
+      "notes": "02/11 (Finados) mantido como dia de estudo"
+    },
+    {
+      "id": "p02",
+      "phase": "Fase 1",
+      "start": "2026-11-05",
+      "end": "2026-11-11",
+      "activity": "Direito Constitucional",
+      "days": 5,
+      "hours": 15,
+      "law": "CF/88",
+      "notes": ""
+    },
+    {
+      "id": "p03",
+      "phase": "Fase 1",
+      "start": "2026-11-12",
+      "end": "2026-11-18",
+      "activity": "Direito Civil",
+      "days": 5,
+      "hours": 15,
+      "law": "Código Civil, LINDB",
+      "notes": ""
+    },
+    {
+      "id": "p04",
+      "phase": "Fase 1",
+      "start": "2026-11-19",
+      "end": "2026-11-24",
+      "activity": "Processo Civil",
+      "days": 4,
+      "hours": 12,
+      "law": "CPC/2015",
+      "notes": "20/11 mantido como dia de estudo (pode virar folga)"
+    },
+    {
+      "id": "p05",
+      "phase": "Fase 1",
+      "start": "2026-11-25",
+      "end": "2026-11-30",
+      "activity": "Direito Penal",
+      "days": 4,
+      "hours": 12,
+      "law": "Código Penal",
+      "notes": ""
+    },
+    {
+      "id": "p06",
+      "phase": "Fase 1",
+      "start": "2026-12-01",
+      "end": "2026-12-03",
+      "activity": "Processo Penal",
+      "days": 3,
+      "hours": 9,
+      "law": "CPP",
+      "notes": ""
+    },
+    {
+      "id": "p07",
+      "phase": "Fase 1",
+      "start": "2026-12-04",
+      "end": "2026-12-09",
+      "activity": "Direito do Trabalho",
+      "days": 4,
+      "hours": 12,
+      "law": "CLT, Lei 13.467/17",
+      "notes": ""
+    },
+    {
+      "id": "p08",
+      "phase": "Fase 1",
+      "start": "2026-12-10",
+      "end": "2026-12-14",
+      "activity": "Processo do Trabalho",
+      "days": 3,
+      "hours": 9,
+      "law": "CLT (parte processual)",
+      "notes": ""
+    },
+    {
+      "id": "p09",
+      "phase": "Fase 1",
+      "start": "2026-12-15",
+      "end": "2026-12-18",
+      "activity": "Direito Administrativo",
+      "days": 4,
+      "hours": 12,
+      "law": "CF, Leis 14.133/21, 8.429/92, 8.112/90",
+      "notes": ""
+    },
+    {
+      "id": "p10",
+      "phase": "Fase 1",
+      "start": "2026-12-21",
+      "end": "2026-12-23",
+      "activity": "Direito Tributário",
+      "days": 3,
+      "hours": 9,
+      "law": "CTN, CF (arts. 145 a 162)",
+      "notes": "Conferir efeitos da EC 132/2023 (reforma tributária)"
+    },
+    {
+      "id": "p11",
+      "phase": "Fase 1",
+      "start": "2026-12-24",
+      "end": "2026-12-29",
+      "activity": "Direito Empresarial",
+      "days": 3,
+      "hours": 9,
+      "law": "CC (Livro II), Leis 6.404/76, 11.101/05, 7.357/85",
+      "notes": "Estudo em 24, 28 e 29/12 (25/12 é folga)"
+    },
+    {
+      "id": "p12",
+      "phase": "Fase 2",
+      "start": "2026-12-30",
+      "end": "2027-01-08",
+      "activity": "Revisão final: Ética, Constitucional, Civil, Processo Civil, Penal e Trabalho + 2 simulados de 80 questões (estilo FGV) + reforço nos erros",
+      "days": 7,
+      "hours": 21,
+      "law": "Todas as leis-base, com foco nos erros",
+      "notes": "01/01 (Ano Novo) é folga"
+    },
+    {
+      "id": "p13",
+      "phase": "Fase 2",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "activity": "Descanso ou revisão leve",
+      "days": 0,
+      "hours": 0,
+      "law": "-",
+      "notes": "Sábado, véspera da prova"
+    },
+    {
+      "id": "p14",
+      "phase": "Prova",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "activity": "Prova da 1ª fase da OAB (80 questões, mínimo 40 acertos)",
+      "days": 0,
+      "hours": 0,
+      "law": "-",
+      "notes": "Confirmar data e local no edital da FGV"
+    }
+  ],
+  "examDate": "2027-01-10",
+  "startDate": "2026-10-29",
+  "dailyHours": 3,
+  "daysOff": [
+    "2026-12-25",
+    "2027-01-01"
+  ],
+  "routine": [
+    {
+      "name": "Conceito",
+      "duration": "1 hora",
+      "description": "Teoria resumida do assunto."
+    },
+    {
+      "name": "Lei seca",
+      "duration": "1 hora",
+      "description": "Leitura dos artigos da lei-base."
+    },
+    {
+      "name": "Questões",
+      "duration": "1 hora",
+      "description": "Resolver questões do assunto, de preferência da FGV."
+    }
+  ]
+}
